@@ -36,6 +36,11 @@ input {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
+
+select{
+  width: 53%;
+  padding: 5px;
+}
 .buttons {
   text-align: center;
   width: 90%;
